@@ -268,7 +268,7 @@
 
 ## 🔗 Ссылки
 
-| | |
+| Ресурс | Где найти |
 |---|---|
 | 🌙 **Selena's Tavern** | [satsvi97.github.io/selena](https://satsvi97.github.io/selena/) — темы, расширения, лорбуки и боты для SillyTavern |
 | ✈️ **Telegram** | [чат Selena's Tavern](https://t.me/+vJVPtuqeHu85ZjU6) — обсуждения, обновления, поддержка |
