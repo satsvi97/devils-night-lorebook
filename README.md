@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/SillyTavern-World%20Info-6b46c1?style=for-the-badge" alt="SillyTavern World Info">
-<img src="https://img.shields.io/badge/Записей-19-111827?style=for-the-badge" alt="19 записей">
-<img src="https://img.shields.io/badge/Язык-Русский-2563eb?style=for-the-badge" alt="Русский">
-<img src="https://img.shields.io/badge/Рейтинг-18%2B-b91c1c?style=for-the-badge" alt="18+">
+<img src="assets/cover.jpg" alt="Ночь Дьявола — обложка" width="100%">
 
 # 🏀 Ночь Дьявола
 
@@ -12,6 +9,19 @@
 **Лорбук для SillyTavern по вселенной Penelope Douglas «Devil's Night»**
 
 <sub>Меридиан Сити · Тандер Бей · Всадники · тёмный роман и триллер</sub>
+
+<br>
+
+<img src="https://img.shields.io/badge/SillyTavern-World%20Info-6b46c1?style=for-the-badge" alt="SillyTavern World Info">
+<img src="https://img.shields.io/badge/Записей-19-111827?style=for-the-badge" alt="19 записей">
+<img src="https://img.shields.io/badge/Язык-Русский-2563eb?style=for-the-badge" alt="Русский">
+<img src="https://img.shields.io/badge/Рейтинг-18%2B-b91c1c?style=for-the-badge" alt="18+">
+
+<br><br>
+
+[![Selena's Tavern](https://img.shields.io/badge/Сайт-Selena's%20Tavern-c084fc?style=for-the-badge)](https://satsvi97.github.io/selena/)
+[![Telegram](https://img.shields.io/badge/Telegram-чат-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+vJVPtuqeHu85ZjU6)
+[![Devil's Night Modes](https://img.shields.io/badge/Тема-Devil's%20Night%20Modes-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satsvi97/devils-night-modes)
 
 </div>
 
@@ -33,6 +43,8 @@
 | **Язык** | Русский |
 | **Рейтинг** | 18+ (NSFW, dark romance, триллер) |
 | **Макросы** | `{{user}}` в правилах и в описании семьи Лингрен |
+
+Лорбук сочетается с темой-расширением [**Devil's Night Modes**](https://github.com/satsvi97/devils-night-modes) — шесть книжных режимов оформления SillyTavern (Corrupt, Hideaway, Kill Switch, Nightfall, Conclave, Punk 57) на одном CSS-движке.
 
 ---
 
@@ -254,11 +266,23 @@
 
 ---
 
+## 🔗 Ссылки
+
+| | |
+|---|---|
+| 🌙 **Selena's Tavern** | [satsvi97.github.io/selena](https://satsvi97.github.io/selena/) — темы, расширения, лорбуки и боты для SillyTavern |
+| ✈️ **Telegram** | [чат Selena's Tavern](https://t.me/+vJVPtuqeHu85ZjU6) — обсуждения, обновления, поддержка |
+| 🎭 **Тема-расширение** | [devils-night-modes](https://github.com/satsvi97/devils-night-modes) — шесть книжных режимов по «Ночи Дьявола» (Corrupt, Hideaway, Kill Switch, Nightfall, Conclave, Punk 57) |
+
+---
+
 ## 📁 Структура репозитория
 
 ```
 devils-night-lorebook/
 ├── README.md                     # этот файл
+├── assets/
+│   └── cover.jpg                 # обложка
 └── devils-night-lorebook.json    # лорбук для импорта в SillyTavern
 ```
 
@@ -280,9 +304,11 @@ devils-night-lorebook/
 
 <div align="center">
 
-**Фанатская работа по вселенной Penelope Douglas «Devil's Night»**
-
-<sub>Права на оригинальных персонажей и мир принадлежат автору.<br>
+<sub>Права на оригинальных персонажей и мир принадлежат Penelope Douglas.<br>
 Тексты лорбука — материалы сообщества для некоммерческого использования.</sub>
+
+<br>
+
+### Сделано с любовью · ✦ Selena's Tavern ✦
 
 </div>
